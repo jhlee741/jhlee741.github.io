@@ -4,4 +4,10 @@ This repo is a clone of
 https://github.com/varadbhogayata/varadbhogayata.github.io
 
 # Activity 1
-![Activity1](https://github.com/jhlee741/jhlee741.github.io/assets/75803498/97121525-b6be-4895-8bd8-df87fd670a1d)
+![Activity1a](https://github.com/jhlee741/jhlee741.github.io/assets/75803498/4eaf1aa0-bb9b-4357-9dc3-e45843b30c12)
+
+# Activity 2
+![Activity2a](https://github.com/jhlee741/jhlee741.github.io/assets/75803498/da2c0150-4104-45e5-ac7b-f868fa65a8cc)
+![Activity2b](https://github.com/jhlee741/jhlee741.github.io/assets/75803498/62115049-87cc-40cf-8863-c2c4ddd1e4e1)
+![Activity2c](https://github.com/jhlee741/jhlee741.github.io/assets/75803498/75849bac-37e3-4526-b44a-041d11faff15)
+![Activity2d](https://github.com/jhlee741/jhlee741.github.io/assets/75803498/b77e353f-94de-481a-9c82-38b6aa702a95)
