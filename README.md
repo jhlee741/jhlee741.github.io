@@ -11,3 +11,7 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 ![Activity2b](https://github.com/jhlee741/jhlee741.github.io/assets/75803498/62115049-87cc-40cf-8863-c2c4ddd1e4e1)
 ![Activity2c](https://github.com/jhlee741/jhlee741.github.io/assets/75803498/75849bac-37e3-4526-b44a-041d11faff15)
 ![Activity2d](https://github.com/jhlee741/jhlee741.github.io/assets/75803498/b77e353f-94de-481a-9c82-38b6aa702a95)
+
+# Activity 3
+![Activity3a](https://github.com/jhlee741/jhlee741.github.io/assets/75803498/45a07c1b-12f3-43d4-8f4b-cbb81439abb1)
+![Activity3b](https://github.com/jhlee741/jhlee741.github.io/assets/75803498/a35f987e-b53b-4998-b607-39289de1aa3f)
